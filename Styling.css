@@ -1,0 +1,31 @@
+#BigContainer {
+    margin-left: 27%; 
+}
+
+#Clear {
+    background-color: #FA8072;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+#Grid {
+    background-color: #FA8072;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px; 
+} 
+
+body {
+    background-image: url(http://www.allwhitebackground.com/images/6/Gradient-Background-Free-Image.png)
+}
